@@ -1,0 +1,24 @@
+1. Extract File Zip
+2. Pindahkan folder ke htdocs/book_rent
+3. pastikan di dalam book_rent berisi semua file-file nya
+4. nyalakan xampp
+5. buka http://localhost/phpmyadmin
+6. buat database baru dengan nama book_rent
+7. lalu import file sql dari folder 00DB(book_rent.sql)
+8. buka folder codingan dengan vs code
+9. jika dari github maka ketik composer update
+10. jika berbentuk filezip ketik php artisan serve
+11. lalu buka 127.0.0.1:8000/link (untuk menghubungkan dengan folder local) pada google crhome
+12. 127.0.0.1 untuk memulai website pada google chrome
+
+============AKUN ==========
+== ADMIN ===
+email = admin@book_rent.com
+password = password
+
+=== User ====
+daftar baru saja
+
+===
+PHP >=8.2
+
